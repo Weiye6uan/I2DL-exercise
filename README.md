@@ -1,5 +1,5 @@
 # Introduction to Deep Learning (IN2346)
-# Technical University Munich - SS 2022
+# Technical University Munich
 
 ## 1. Python Setup
 
